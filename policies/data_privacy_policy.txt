@@ -1,0 +1,24 @@
+SAMPLE COMPANY DATA PRIVACY POLICY
+
+Policy ID: PRIV-001
+Version: 1.0
+
+1. Purpose
+This policy explains how employees must handle company and customer data.
+
+2. Customer Data Protection
+Employees must protect customer personal information and access it only for approved business purposes.
+
+3. Sharing Customer Data
+Employees must not share customer personal information with external vendors unless the vendor has been approved and the required data protection agreement is in place.
+
+4. Data Storage
+Customer data must be stored only in company-approved systems. Employees must not upload customer information to personal cloud storage.
+
+5. Reporting Incidents
+Employees must report suspected data leaks or unauthorized access to the company's security team immediately.
+
+6. Missing Policy Information
+If a question cannot be answered using this policy, the assistant must state that the available policy does not contain sufficient information. It must not invent company rules.
+
+Note: This is a fictional sample policy created for a learning project. It is not a real company's official policy.
